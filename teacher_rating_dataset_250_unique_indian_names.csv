@@ -1,0 +1,148 @@
+Teacher_ID,Name,Subject,Grade_Level,Effectiveness,Clarity,Communication,Engagement,Fairness,Approachability,Availability,Punctuality,Assessment_Quality,Feedback_Quality,Classroom_Management,Inclusivity,Technology_Integration,Professional_Development,Collaboration,Overall_Rating
+1,Shivani,Science,Middle School,1,1,2,4,2,3,4,1,5,5,5,1,5,4,4,1
+2,Parth,Math,Elementary,3,4,1,1,5,1,3,1,3,4,5,3,4,5,1,1
+3,Manju,English,High School,4,3,3,1,3,4,3,4,4,4,1,4,3,2,4,5
+4,Zara,English,Elementary,2,5,1,5,2,2,1,5,3,4,2,2,3,4,5,5
+5,Manisha,English,Elementary,2,4,5,4,1,3,5,2,1,4,4,1,1,3,3,2
+6,Pranav,Math,Middle School,5,5,4,1,5,3,1,3,5,4,2,5,1,4,5,4
+7,Yashika,Math,Middle School,2,1,1,4,4,4,2,1,3,2,2,1,5,3,2,2
+8,Navya,Science,Middle School,5,5,5,2,5,4,1,3,3,1,1,5,5,3,4,3
+9,Chhaya,Math,Middle School,1,5,5,3,4,5,1,3,1,3,1,3,2,4,4,1
+10,Krish,English,Middle School,4,2,3,1,5,5,4,4,2,1,1,4,5,3,2,1
+11,Harsh,English,High School,5,2,5,5,5,2,3,5,4,4,1,3,2,3,2,1
+12,Anjali,Math,Elementary,1,2,5,2,5,2,5,1,2,2,5,2,4,2,3,2
+13,Tina,English,Elementary,2,5,5,4,4,1,1,3,5,5,1,1,1,5,4,2
+14,Jatin,English,Elementary,2,3,5,2,4,5,5,1,3,2,5,5,4,5,4,1
+15,Hina,Math,Elementary,1,5,2,1,5,3,1,2,1,4,5,5,5,2,3,2
+16,Ishani,Math,Middle School,2,3,2,4,2,5,2,4,1,2,1,1,4,4,1,5
+17,Ved,English,Elementary,1,3,3,3,3,3,1,2,4,2,3,1,4,1,3,5
+18,Mehul,English,High School,5,2,1,2,3,4,4,1,2,4,4,2,4,1,5,2
+19,Rajvi,English,High School,5,4,5,1,3,5,3,1,4,2,2,3,5,1,4,1
+20,Mehak,Science,Elementary,1,1,1,5,4,4,2,5,3,3,5,5,4,2,2,2
+21,Kriti,Science,Elementary,5,2,1,4,4,2,1,3,4,3,4,2,2,2,5,2
+22,Nikhil,Science,High School,5,2,3,2,2,2,5,3,1,2,3,3,5,3,4,2
+23,Tanvi,Math,High School,5,4,5,2,3,1,2,2,1,5,2,2,4,1,3,3
+24,Ishika,Science,Middle School,3,1,5,3,3,5,2,4,5,4,2,5,5,4,5,5
+25,Tanya,Math,High School,4,5,4,3,5,4,1,3,5,3,5,1,3,4,4,4
+26,Abhinav,Math,Middle School,2,5,1,5,4,3,2,5,3,5,1,1,2,1,1,4
+27,Ekta,Science,Middle School,3,2,1,5,3,2,5,2,2,2,3,3,4,1,1,3
+28,Eesha,Science,Middle School,5,1,2,1,2,2,2,2,4,5,5,4,3,1,2,2
+29,Esha,Science,Middle School,1,2,4,1,2,3,5,5,3,1,3,3,3,2,4,3
+30,Neha,English,Middle School,5,3,2,5,3,4,1,4,5,3,1,4,5,2,1,3
+31,Ishant,Science,Elementary,4,2,2,5,4,4,3,5,4,2,1,2,3,2,3,1
+32,Ishita,English,High School,5,2,2,4,2,5,2,4,5,4,5,2,2,5,4,5
+33,Jatin,Math,Middle School,1,5,3,3,5,5,3,5,4,2,1,5,2,4,3,4
+34,Ishika,English,High School,4,5,3,1,2,1,5,5,2,4,4,4,1,4,3,2
+35,Arjun,Science,High School,5,5,2,3,1,2,2,1,3,2,2,5,2,3,1,4
+36,Vishal,Math,Middle School,4,3,4,3,1,5,4,2,4,5,5,1,3,2,4,4
+37,Zainab,Math,Elementary,2,5,1,5,4,4,3,5,1,5,3,4,2,5,5,5
+38,Yuvan,Math,Middle School,2,1,4,4,3,3,2,5,1,5,4,3,5,5,1,4
+39,Ayush,English,Elementary,5,4,5,2,4,4,3,3,4,1,5,1,1,4,1,4
+40,Sarthak,Science,High School,4,1,3,4,4,2,2,2,4,4,1,1,3,2,4,3
+41,Mira,Math,Elementary,1,1,1,4,4,4,1,3,4,5,1,3,1,3,4,5
+42,Disha,Math,Elementary,5,5,1,3,4,1,3,2,1,1,1,1,3,2,3,1
+43,Jia,Math,Elementary,2,4,5,4,5,2,4,3,1,4,1,4,5,1,4,2
+44,Nishant,English,High School,2,4,5,1,5,3,4,5,4,2,3,5,1,2,3,4
+45,Varun,English,High School,5,4,2,3,2,1,5,5,5,1,4,1,4,1,1,2
+46,Vaishnavi,Science,Elementary,4,3,3,1,1,2,2,1,5,3,2,4,3,1,2,1
+47,Prisha,English,Elementary,2,5,3,2,4,3,3,3,2,1,3,2,4,3,5,2
+48,Shivansh,Math,Middle School,4,4,4,3,2,1,5,4,3,1,3,4,1,4,1,1
+49,Aarav,Science,Elementary,2,3,2,2,1,1,3,1,5,4,2,5,4,2,4,3
+50,Sakshi,Math,Middle School,2,2,2,3,3,2,2,3,1,2,2,4,4,1,5,4
+51,Hrithik,Math,Elementary,3,2,2,5,5,5,4,3,5,3,1,3,1,2,2,1
+52,Ishan,English,Middle School,2,3,2,4,1,1,1,1,2,5,3,5,5,4,2,2
+53,Aarush,Science,High School,1,3,3,5,3,1,4,5,2,5,5,2,4,4,3,4
+54,Arnav,English,Elementary,5,5,3,2,1,3,5,3,3,1,2,3,4,5,5,3
+55,Aryan,English,Elementary,5,5,2,4,5,4,1,5,5,4,2,4,5,4,3,4
+56,Diya,Science,Elementary,4,2,4,3,5,2,5,1,1,4,4,5,4,3,1,1
+57,Aditi,Math,Elementary,2,4,1,4,2,2,2,5,1,5,5,2,4,1,5,3
+58,Hitesh,Math,Middle School,1,2,1,1,4,5,1,2,4,3,5,3,4,5,1,2
+59,Ishwar,Science,Elementary,4,4,4,4,1,5,5,4,1,2,2,2,2,3,3,3
+60,Soham,Math,High School,3,4,2,1,1,2,2,3,3,3,1,4,5,2,5,3
+61,Gaurav,Science,High School,4,5,3,4,3,5,4,4,3,2,4,2,4,1,3,5
+62,Saanvi,Science,Elementary,4,1,1,1,5,3,2,5,1,5,5,1,5,4,5,3
+63,Ishwar,English,High School,2,1,5,2,1,2,3,3,1,2,2,3,3,1,3,3
+64,Zoya,Science,Elementary,3,3,5,5,5,5,2,5,4,4,5,2,3,2,2,4
+65,Khushi,English,Elementary,4,5,4,3,1,2,2,2,1,1,4,4,4,5,3,2
+66,Bhuvan,Math,High School,1,4,2,4,2,4,3,1,4,1,4,4,5,5,2,4
+67,Kirti,Math,Elementary,1,1,1,5,4,1,5,3,4,5,3,2,5,5,3,4
+68,Yuvika,Math,High School,5,4,2,3,1,2,5,2,1,4,2,4,5,4,5,1
+69,Veer,Math,Middle School,3,1,1,3,5,1,2,2,2,3,4,5,2,3,5,4
+70,Rashmi,English,Elementary,3,1,4,1,2,5,3,3,2,4,3,5,3,3,5,5
+71,Kunal,Math,Middle School,5,1,4,2,1,1,3,5,4,1,3,5,5,1,4,5
+72,Deepak,Science,High School,4,5,5,2,3,2,4,2,1,1,5,1,5,4,1,1
+73,Chirag,Science,Middle School,3,2,2,5,4,4,5,4,2,4,5,2,2,5,5,2
+74,Trisha,Science,Middle School,1,4,5,2,1,5,1,2,1,4,3,1,2,5,2,2
+75,Aditya,English,High School,1,5,2,4,2,2,5,5,1,1,5,4,5,2,5,4
+76,Sameer,Math,Middle School,2,5,5,2,3,5,5,5,1,3,4,1,1,2,4,4
+77,Avni,Math,Middle School,3,5,3,5,2,3,4,4,5,5,1,4,5,5,2,4
+78,Kanika,Math,High School,4,5,3,2,2,1,1,2,1,5,4,4,5,5,4,2
+79,Bharat,English,Middle School,5,5,3,4,3,3,4,5,5,4,3,3,2,4,2,3
+80,Muskaan,Science,High School,5,3,3,1,2,2,1,3,4,5,3,5,2,3,3,5
+81,Sanya,Science,Middle School,4,4,1,5,3,4,2,1,2,1,4,4,5,2,1,3
+82,Bhavesh,Math,High School,2,5,3,1,1,5,1,1,2,1,5,3,5,3,1,3
+83,Zain,Science,High School,5,4,4,1,3,1,4,1,2,4,5,5,5,4,4,2
+84,Sahil,Science,Middle School,3,3,4,1,3,5,5,2,2,4,3,4,2,5,1,3
+85,Yamini,English,Middle School,2,3,1,3,4,2,1,4,2,4,2,4,5,3,4,1
+86,Ishaan,English,Middle School,3,4,3,3,3,5,1,5,2,3,5,1,5,5,4,4
+87,Divya,English,Elementary,1,1,3,1,3,1,3,3,2,5,4,1,4,5,4,1
+88,Nisha,English,Elementary,2,2,3,5,1,2,5,3,4,4,5,5,1,1,1,5
+89,Zoya,Math,Elementary,5,1,5,4,4,5,2,2,1,2,4,4,3,3,4,4
+90,Himanshu,English,High School,2,1,2,4,5,4,4,1,3,2,3,2,1,3,1,3
+91,Bhumika,Science,Middle School,2,1,5,2,1,2,2,2,5,1,5,1,4,5,4,5
+92,Dinesh,Math,High School,2,5,2,5,1,2,5,4,3,5,4,5,3,4,5,4
+93,Pooja,Science,Elementary,2,3,3,3,5,4,1,4,3,4,3,4,5,1,4,3
+94,Kavya,Science,Middle School,3,1,3,1,3,3,1,5,1,2,2,4,4,5,2,1
+95,Riya,Science,High School,1,3,5,2,2,1,5,5,1,5,4,2,5,2,4,4
+96,Jiya,English,Middle School,4,4,5,4,4,3,1,4,1,1,2,5,2,2,3,3
+97,Nikita,English,High School,2,2,2,3,2,5,1,4,2,3,2,4,4,1,4,1
+98,Ananya,Math,Middle School,5,4,4,3,5,4,1,4,4,5,1,1,2,4,2,5
+99,Shreya,Math,Elementary,2,4,2,1,1,3,4,2,2,5,5,2,4,5,2,5
+100,Yash,English,Elementary,5,5,5,4,1,2,4,4,4,3,4,5,4,3,1,5
+101,Rajat,Science,Middle School,3,2,5,5,4,5,3,3,4,5,2,2,2,1,5,5
+102,Yashita,Math,High School,5,4,1,3,1,5,2,1,3,1,1,1,3,4,4,2
+103,Dhruv,English,Elementary,4,4,5,1,1,3,5,4,3,1,3,5,1,3,1,4
+104,Tanmay,English,Elementary,1,2,1,5,4,3,5,1,4,3,4,2,5,2,5,4
+105,Harshita,English,Elementary,5,2,4,4,4,4,5,2,4,4,2,3,4,2,4,2
+106,Advait,Science,Middle School,5,4,2,3,5,1,3,1,2,2,5,1,5,3,3,3
+107,Deepika,English,Middle School,1,2,2,5,1,3,4,2,2,4,1,1,2,1,4,3
+108,Sia,English,High School,4,4,1,5,1,3,3,3,3,5,2,1,5,2,2,5
+109,Preeti,English,High School,2,4,2,5,5,2,5,2,1,2,5,3,2,5,2,1
+110,Nandini,English,High School,5,5,5,3,3,5,2,2,4,3,2,3,5,3,3,3
+111,Zara,Math,Middle School,1,1,3,3,3,1,1,5,2,3,4,4,1,3,1,1
+112,Jai,Math,Middle School,3,4,1,2,3,2,4,4,3,2,4,2,1,2,5,4
+113,Ananya,English,High School,1,3,2,4,5,4,4,4,2,1,4,4,1,1,4,1
+114,Bhavya,Science,High School,3,1,1,1,1,4,3,3,4,2,1,2,1,5,2,4
+115,Vaibhav,Math,Middle School,4,1,1,5,5,3,4,3,4,5,4,3,1,1,1,2
+116,Anushka,English,High School,2,1,3,2,5,3,5,4,5,1,5,3,1,4,3,2
+117,Anika,Math,Elementary,1,5,5,1,3,4,5,5,1,3,2,4,2,4,2,5
+118,Samaira,Math,Middle School,5,4,1,2,2,3,3,4,5,2,3,5,4,2,3,3
+119,Akshara,Science,High School,4,5,2,3,1,1,5,5,3,4,5,4,5,2,4,5
+120,Zainab,English,Middle School,1,4,4,5,3,3,2,3,2,4,5,2,1,2,5,4
+121,Rajesh,English,Elementary,5,5,1,1,2,5,3,1,3,5,4,4,2,4,2,5
+122,Manav,Science,Middle School,1,5,1,1,2,3,2,3,4,4,1,1,2,1,2,1
+123,Nitin,Science,Middle School,3,3,3,1,4,2,1,3,5,2,2,2,2,1,4,4
+124,Rohini,English,Middle School,1,5,5,1,1,1,2,2,5,2,1,2,4,2,1,2
+125,Aanya,English,Middle School,1,2,4,1,2,2,1,2,5,4,2,5,5,5,5,3
+126,Yuvraj,Science,Elementary,1,3,2,2,3,2,1,2,3,2,2,3,4,1,2,4
+127,Vani,Math,Middle School,4,5,4,5,4,5,2,2,4,5,1,2,3,4,5,4
+128,Rahul,Math,Middle School,1,1,2,3,1,1,3,5,2,1,5,3,2,3,2,1
+129,Rashi,Science,High School,5,2,5,3,5,1,5,4,2,5,2,4,3,3,5,3
+130,Vikas,Math,Middle School,3,2,2,3,3,1,5,1,3,5,1,1,1,3,3,2
+131,Komal,Science,High School,3,2,3,3,2,1,1,3,5,2,2,5,1,5,2,4
+132,Aaradhya,Math,Elementary,1,3,3,2,2,1,1,5,1,1,3,3,4,2,5,4
+133,Ritika,Math,Elementary,4,5,3,4,3,5,3,1,3,2,5,2,5,4,1,1
+134,Ansh,English,Elementary,4,5,3,5,2,3,4,5,3,3,4,3,3,5,3,5
+135,Kush,English,Elementary,5,1,4,1,4,2,2,5,4,2,2,2,5,4,3,2
+136,Ekisha,Math,High School,1,1,5,4,1,1,1,3,2,2,3,3,4,4,1,3
+137,Eklavya,Math,Middle School,3,2,2,3,4,3,5,4,3,2,4,2,1,2,5,4
+138,Megha,English,Elementary,4,1,2,4,2,3,3,2,3,1,4,4,5,3,4,4
+139,Tushar,English,Middle School,1,3,3,5,5,2,2,4,5,2,2,2,5,2,1,2
+140,Mukesh,English,High School,4,5,3,1,1,5,3,3,5,1,1,2,1,5,5,5
+141,Zoya,Science,High School,4,2,1,1,1,4,2,3,1,4,2,1,3,5,1,4
+142,Aaryan,Math,High School,3,1,5,5,3,4,2,3,4,3,3,2,1,5,1,2
+143,Prachi,English,Elementary,2,3,4,5,3,3,1,1,1,1,4,1,5,2,2,1
+144,Pranjal,Math,Middle School,5,3,2,3,5,2,3,4,5,4,2,5,3,4,5,5
+145,Rohan,Science,Middle School,5,1,1,1,1,4,3,4,2,1,1,1,3,4,4,3
+146,Tejas,Science,Middle School,3,5,1,4,5,3,5,5,5,1,2,4,1,1,2,4
+147,Juhi,English,High School,4,1,2,2,3,5,5,5,4,3,5,1,5,5,1,2
